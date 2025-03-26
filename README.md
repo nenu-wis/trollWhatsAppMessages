@@ -4,7 +4,7 @@ Código para enviar mensagens automáticas sem parar para seus amigos ou grupos 
 
 ## Utilização
 
-Abre [TheMetamorphosis.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/shrekSendScript.js)
+Abre [TheMetamorphosis.js](https://github.com/JoaoManuelRego/trollWhatsAppMessages/blob/main/TheMetamorphosis.js)
 
 Copia todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
 
