@@ -4,13 +4,11 @@ Código para enviar mensagens automáticas sem parar para seus amigos ou grupos 
 
 ## Utilização
 
-Abra [shrekSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/shrekSendScript.js)
-Ou
-Abra [beeMovieSendScript.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/beeMovieSendScript.js)
+Abre [TheMetamorphosis.js](https://github.com/Matt-Fontes/SendScriptWhatsApp/blob/main/shrekSendScript.js)
 
 Copia todo o conteúdo (clique em raw -> ctrl+a -> ctrl+c)
 
-No WhatsApp Web abra o console do Browser
+No WhatsApp Web abre a console do Browser
 
 |  ⚠️ Aviso importante, numa atualização recente do Google Chrome, está sendo impedido que qualquer script seja colado no Console.|
 |--|
@@ -18,6 +16,6 @@ No WhatsApp Web abra o console do Browser
 |Após isso será permitido colar e continuar a execução do script|
 
 
-Cole o código no console e aperte Enter
+Cola o código na consola e dá Enter
 
 Pronto
